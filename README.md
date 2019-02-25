@@ -1,2 +1,2 @@
 # Data-Science
-Data Science Courses and projects I did.
+Data Science courses and projects I did.
